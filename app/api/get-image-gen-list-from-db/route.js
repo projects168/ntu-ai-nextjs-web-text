@@ -1,4 +1,4 @@
-// import db from "@/services/firebase-db";
+import db from "@/services/firebase-db";
 
 export async function GET() {
     const dataList = [];
